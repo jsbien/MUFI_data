@@ -1,0 +1,22 @@
+name: Send Test Email
+
+on:
+  workflow_dispatch:  # Manual trigger only
+
+jobs:
+  test_email:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Send email
+        uses: dawidd6/action-send-mail@v3
+        with:
+          server_address: ${{ secrets.SMTP_SERVER }}
+          server_port: ${{ secrets.SMTP_PORT }}
+          username: ${{ secrets.SMTP_USERNAME }}
+          password: ${{ secrets.SMTP_PASSWORD }}
+          subject: "Test email from GitHub Actions"
+          to: ${{ secrets.EMAIL_TO }}
+          from: ${{ secrets.SMTP_USERNAME }}
+          body: |
+            This is a test email sent from GitHub Actions via dawidd6/action-send-mail.
