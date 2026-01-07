@@ -28,13 +28,6 @@ jobs:
         run: |
           curl -sSL 'https://gefin.ku.dk/q.php?q=mufiexport&f=csv' -o data/csv/mufiexport.csv
 
-      - name: Commit changes if any
-        run: |
-          git config user.name "github-actions"
-          git config user.email "actions@github.com"
-          git add data/
-          git diff --quiet && echo "No changes" || (git commit -m "Update MUFI export on $(date -u)" && git push)
-
       - name: Check for changes and commit
         id: commit
         run: |
