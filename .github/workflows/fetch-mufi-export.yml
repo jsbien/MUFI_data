@@ -1,64 +1,69 @@
 # .github/workflows/fetch-mufi-export.yml
 
-name: Fetch MUFI Export Data
+name: Fetch MUFI Export
+
+on:
+  schedule:
+    - cron: '0 2 * * *'
+  workflow_dispatch:
 
 permissions:
   contents: write
 
-on: schedule: - cron: '0 4 * * *' # Daily at 04:00 UTC — adjust later for weekly workflow_dispatch:
+jobs:
+  fetch-and-commit:
+    runs-on: ubuntu-latest
 
-jobs: fetch: runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
 
-steps:
-  - name: Checkout repo
-    uses: actions/checkout@v3
+      - name: Set up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: 3.x
 
-  - name: Set up folders
-    run: |
-      mkdir -p data/json
-      mkdir -p data/csv
+      - name: Install requirements (if needed)
+        run: pip install requests
 
-  - name: Download JSON
-    run: |
-      curl -sSL 'https://gefin.ku.dk/q.php?q=mufiexport&f=json' -o data/json/mufiexport.json
+      - name: Fetch MUFI JSON and CSV
+        run: |
+          mkdir -p data/json data/csv
+          curl -sSL "https://gefin.ku.dk/q.php?q=mufiexport&type=json" -o data/json/mufiexport.json
+          curl -sSL "https://gefin.ku.dk/q.php?q=mufiexport&type=csv" -o data/csv/mufiexport.csv
 
-  - name: Download CSV
-    run: |
-      curl -sSL 'https://gefin.ku.dk/q.php?q=mufiexport&f=csv' -o data/csv/mufiexport.csv
+      - name: Check for changes and commit
+        id: commit
+        run: |
+          git config user.name "jsbien"
+          git config user.email "jsbien@uw.edu.pl"
+          git add data/
+          if git diff --cached --quiet; then
+            echo "No changes detected"
+            echo "changes_detected=false" >> "$GITHUB_OUTPUT"
+          else
+            git commit -m "Update MUFI export on $(date -u)"
+            git remote set-url origin https://x-access-token:${{ secrets.MUFI_ACCESS }}@github.com/${{ github.repository }}.git
+            git push origin main
+            echo "changes_detected=true" >> "$GITHUB_OUTPUT"
+          fi
 
-  - name: Check for changes and commit
-    id: commit
-    run: |
-      git config user.name "jsbien"
-      git config user.email "jsbien@mimuw.edu.pl"
-      git add data/
-      if git diff --cached --quiet; then
-        echo "No changes detected"
-        echo "changes_detected=false" >> "$GITHUB_OUTPUT"
-      else
-        git commit -m "Update MUFI export on $(date -u)"
-        # Use the built-in GITHUB_TOKEN (requires permissions: contents: write above)
-        git remote set-url origin https://x-access-token:${{ secrets.MUFI_ACCESS }}@github.com/${{ github.repository }}.git
-        git push origin main
-        echo "changes_detected=true" >> "$GITHUB_OUTPUT"
-      fi
+      - name: Send commit notification email
+        if: steps.commit.outputs.changes_detected == 'true'
+        uses: dawidd6/action-send-mail@v3
+        with:
+          server_address: ${{ secrets.SMTP_SERVER }}
+          server_port: ${{ secrets.SMTP_PORT }}
+          username: ${{ secrets.SMTP_USERNAME }}
+          password: ${{ secrets.SMTP_PASSWORD }}
+          subject: "MUFI export updated on $(date -u)"
+          to: ${{ secrets.EMAIL_TO }}
+          from: ${{ secrets.SMTP_USERNAME }}
+          body: |
+            A new MUFI export has been committed to jsbien/MUFI_data.
 
-  - name: Send commit notification email
-    if: steps.commit.outputs.changes_detected == 'true'
-    uses: dawidd6/action-send-mail@v3
-    with:
-      server_address: ${{ secrets.SMTP_SERVER }}
-      server_port: ${{ secrets.SMTP_PORT }}
-      username: ${{ secrets.SMTP_USERNAME }}
-      password: ${{ secrets.SMTP_PASSWORD }}
-      subject: "MUFI export updated on $(date -u)"
-      to: ${{ secrets.EMAIL_TO }}
-      from: ${{ secrets.SMTP_USERNAME }}
-      body: |
-        A new MUFI export has been committed to jsbien/MUFI_data.
+            Commit message:
+            Update MUFI export on $(date -u)
 
-        Commit message:
-        Update MUFI export on $(date -u)
-
-        View repository:
-        https://github.com/jsbien/MUFI_data
+            View repository:
+            https://github.com/jsbien/MUFI_data
