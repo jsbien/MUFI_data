@@ -27,7 +27,7 @@ jobs:
         run: pip install requests
 
       - name: Fetch MUFI JSON and CSV
-          run: |
+        run: |
           mkdir -p data/json data/csv
 
           echo "Downloading JSON..."
