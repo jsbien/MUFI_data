@@ -38,7 +38,7 @@ jobs:
           fi
 
           echo "Downloading CSV..."
-          status_csv=$(curl -s -w "%{http_code}" -o data/csv/mufiexport.csv "https://gefin.ku.dk/q.php?q=mufiexport&type=csv")
+          status_csv=$(curl -s -w "%{http_code}" -o data/csv/mufiexport.csv "https://gefin.ku.dk/q.php?q=mufiexport&gefindataformat=csv")
           if [ "$status_csv" != "200" ]; then
             echo "Failed to download CSV: HTTP $status_csv"
             exit 1
