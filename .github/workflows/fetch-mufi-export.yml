@@ -53,13 +53,16 @@ jobs:
           git add data/
           if git diff --cached --quiet; then
             echo "No changes detected"
-            echo "changes_detected=false" >> $GITHUB_ENV
+            echo "changes_detected=false" >> "$GITHUB_ENV"
+            echo "changes_detected=false" >> "$GITHUB_OUTPUT"
           else
             git commit -m "Update MUFI export on $TIMESTAMP"
             git remote set-url origin https://x-access-token:${{ secrets.MUFI_ACCESS }}@github.com/${{ github.repository }}.git
             git push origin main
-            echo "changes_detected=true" >> $GITHUB_ENV
-            echo "timestamp=$TIMESTAMP" >> $GITHUB_ENV
+            echo "changes_detected=true" >> "$GITHUB_ENV"
+            echo "changes_detected=true" >> "$GITHUB_OUTPUT"
+            echo "timestamp=$TIMESTAMP" >> "$GITHUB_ENV"
+            echo "timestamp=$TIMESTAMP" >> "$GITHUB_OUTPUT"
           fi
 
       - name: Send commit notification email
