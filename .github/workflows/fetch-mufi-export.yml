@@ -31,7 +31,7 @@ jobs:
           mkdir -p data/json data/csv
 
           echo "Downloading JSON..."
-          status_json=$(curl -s -w "%{http_code}" -o data/json/mufiexport.json "https://gefin.ku.dk/q.php?q=mufiexport&type=json")
+          status_json=$(curl -s -w "%{http_code}" -o data/json/mufiexport.json "https://gefin.ku.dk/q.php?q=mufiexport&gefinddataformat=json")
           if [ "$status_json" != "200" ]; then
             echo "Failed to download JSON: HTTP $status_json"
             exit 1
