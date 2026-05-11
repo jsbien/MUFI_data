@@ -868,7 +868,7 @@ E324,,U,&Uvertline;,1,,,PUA-30,3.0,"LATIN CAPITAL LETTER U WITH VERTICAL LINE
 E32B,,U,&Uesup;,1,,,PUA-31,3.0,"LATIN CAPITAL LETTER U WITH LATIN SMALL LETTER E ABOVE",accepted,,0,,"2025-12-22 20:19:33",https://mufi.info/q.php?p=mufi/chars/unichar/58155
 E32D,,U,&Uosup;,1,,,PUA-31,3.0,"LATIN CAPITAL LETTER U WITH LATIN SMALL LETTER O ABOVE",accepted,,0,,"2025-12-22 20:19:33",https://mufi.info/q.php?p=mufi/chars/unichar/58157
 E331,,U,&Ucurl;,1,,,PUA-21,3.0,"LATIN CAPITAL LETTER U WITH CURL",accepted,,0,,"2025-12-22 20:19:33",https://mufi.info/q.php?p=mufi/chars/unichar/58161
-E337,,Þ,&THORNbarslash;,1,,,PUA-5,3.0,"LATIN CAPITAL LETTER THORN WITH DIAGONAL STROKE",accepted,,0,,"2025-12-22 20:19:33",https://mufi.info/q.php?p=mufi/chars/unichar/58167
+E337,,Þ,&THORNbarslash;,1,,,PUA-5,3.0,"LATIN CAPITAL LETTER THORN WITH DIAGONAL STROKE",accepted,,0,,"2026-05-08 13:39:30",https://mufi.info/q.php?p=mufi/chars/unichar/58167
 E33A,,V,&Vacute;,1,,,PUA-16,3.0,"LATIN CAPITAL LETTER V WITH ACUTE",accepted,,0,,"2025-12-22 20:19:33",https://mufi.info/q.php?p=mufi/chars/unichar/58170
 E33B,,V,&Vcirc;,1,,,PUA-25,3.0,"LATIN CAPITAL LETTER V WITH CIRCUMFLEX",accepted,,0,,"2025-12-22 20:19:33",https://mufi.info/q.php?p=mufi/chars/unichar/58171
 E342,,V,&Vuml;,1,,,PUA-20,3.0,"LATIN CAPITAL LETTER V WITH DIAERESIS",accepted,,0,,"2025-12-22 20:19:33",https://mufi.info/q.php?p=mufi/chars/unichar/58178
@@ -962,7 +962,7 @@ E596,,L,&lmacrhigh;,1,,,PUA-15,3.0,"LATIN SMALL LETTER L WITH HIGH MACRON (AB
 E59E,,L,&ldot;,1,,,PUA-18,3.0,"LATIN SMALL LETTER L WITH DOT ABOVE",accepted,,0,,"2025-12-22 20:19:33",https://mufi.info/q.php?p=mufi/chars/unichar/58782
 E5A4,,L,&lringbl;,1,,,PUA-27,3.0,"LATIN SMALL LETTER L WITH RING BELOW",accepted,,0,,"2025-12-22 20:19:33",https://mufi.info/q.php?p=mufi/chars/unichar/58788
 E5B1,,L,&lovlmed;,1,,,PUA-15,3.0,"LATIN SMALL LETTER L WITH MEDIUM-HIGH OVERLINE (ACROSS ASCENDER)",accepted,,0,"The overline in E5B1 has full width, thus connecting with any strokes on the previous or following character such as the ‘h’ in E517 and the ‘k’ in E7C3.","2025-12-22 20:19:33",https://mufi.info/q.php?p=mufi/chars/unichar/58801
-E5B8,,M,&mmacrmed;,1,,,PUA-15,3.0,"LATIN SMALL LETTER M WITH MEDIUM-HIGH MACRON (ABOVE CHARACTER)",accepted,,0,,"2025-12-22 20:19:33",https://mufi.info/q.php?p=mufi/chars/unichar/58808
+E5B8,,M,&mmacrmed;,1,,,PUA-15,3.0,"LATIN SMALL LETTER M WITH MEDIUM-HIGH MACRON (ABOVE CHARACTER)",accepted,,0,,"2026-05-08 13:39:30",https://mufi.info/q.php?p=mufi/chars/unichar/58808
 E5C5,,M,&mringbl;,1,,,PUA-27,3.0,"LATIN SMALL LETTER M WITH RING BELOW",accepted,,0,,"2025-12-22 20:19:33",https://mufi.info/q.php?p=mufi/chars/unichar/58821
 E5D2,,M,&movlmed;,1,,,PUA-15,3.0,"LATIN SMALL LETTER M WITH MEDIUM-HIGH OVERLINE (ABOVE CHARACTER)",accepted,,0,,"2025-12-22 20:19:33",https://mufi.info/q.php?p=mufi/chars/unichar/58834
 E5D7,,N,&ncirc;,1,,,PUA-25,3.0,"LATIN SMALL LETTER N WITH CIRCUMFLEX",accepted,,0,,"2025-12-22 20:19:33",https://mufi.info/q.php?p=mufi/chars/unichar/58839
@@ -1130,8 +1130,8 @@ EBB1,,A,&avligslashacute;,1,,,PUA-16,3.0,"LATIN SMALL LIGATURE AV WITH STROKE
 EBB2,,D,&drotacute;,1,,,PUA-16,3.0,"LATIN SMALL LETTER D ROTUNDA WITH ACUTE",accepted,,0,,"2025-12-22 20:19:33",https://mufi.info/q.php?p=mufi/chars/unichar/60338
 EBB3,,F,&Finsacute;,1,,,PUA-16,3.0,"LATIN CAPITAL LETTER INSULAR F WITH ACUTE",accepted,,0,,"2025-12-22 20:19:33",https://mufi.info/q.php?p=mufi/chars/unichar/60339
 EBB4,,F,&finsacute;,1,,,PUA-16,3.0,"LATIN SMALL LETTER INSULAR F WITH ACUTE",accepted,,0,,"2025-12-22 20:19:33",https://mufi.info/q.php?p=mufi/chars/unichar/60340
-EBB5,,M,&Muncacute;,1,,,PUA-16,3.0,"LATIN CAPITAL LETTER UNCIAL M WITH ACUTE",accepted,,0,,"2025-12-22 20:19:33",https://mufi.info/q.php?p=mufi/chars/unichar/60341
-EBB6,,M,&muncacute;,1,,,PUA-16,3.0,"LATIN SMALL LETTER UNCIAL M WITH ACUTE",accepted,,0,,"2025-12-22 20:19:33",https://mufi.info/q.php?p=mufi/chars/unichar/60342
+EBB5,,M,&Muncacute;,1,,,PUA-16,3.0,"LATIN CAPITAL LETTER UNCIAL M WITH ACUTE",accepted,,0,,"2026-05-08 13:39:32",https://mufi.info/q.php?p=mufi/chars/unichar/60341
+EBB6,,M,&muncacute;,1,,,PUA-16,3.0,"LATIN SMALL LETTER UNCIAL M WITH ACUTE",accepted,,0,,"2026-05-08 13:39:32",https://mufi.info/q.php?p=mufi/chars/unichar/60342
 EBB7,,O,&Ocurlacute;,1,,,PUA-35,3.0,"LATIN CAPITAL LETTER O WITH CURL AND ACUTE",accepted,,0,,"2025-12-22 20:19:33",https://mufi.info/q.php?p=mufi/chars/unichar/60343
 EBB8,,O,&ocurlacute;,1,,,PUA-35,3.0,"LATIN SMALL LETTER O WITH CURL AND ACUTE",accepted,,0,,"2025-12-22 20:19:33",https://mufi.info/q.php?p=mufi/chars/unichar/60344
 EBB9,,R,&rrotacute;,1,,,PUA-16,3.0,"LATIN SMALL LETTER R ROTUNDA WITH ACUTE",accepted,,0,,"2025-12-22 20:19:33",https://mufi.info/q.php?p=mufi/chars/unichar/60345
@@ -1214,7 +1214,7 @@ EECB,,F,&ftlig;,1,,,PUA-1,3.0,"LATIN SMALL LIGATURE FT",accepted,,0,,"2025-12
 EECC,,F,&fuumllig;,1,,,PUA-1,3.0,"LATIN SMALL LIGATURE F U WITH DIAERESIS",accepted,,0,,"2025-12-22 20:19:33",https://mufi.info/q.php?p=mufi/chars/unichar/61132
 EECD,,F,&fylig;,1,,,PUA-1,3.0,"LATIN SMALL LIGATURE FY",accepted,,0,,"2025-12-22 20:19:33",https://mufi.info/q.php?p=mufi/chars/unichar/61133
 EECE,,F,&fftlig;,1,,,PUA-1,3.0,"LATIN SMALL LIGATURE FFT",accepted,,0,,"2025-12-22 20:19:33",https://mufi.info/q.php?p=mufi/chars/unichar/61134
-EECF,,F,&ffylig;,1,,,PUA-1,3.0,"LATIN SMALL LIGATURE FFY",accepted,,0,,"2025-12-22 20:19:33",https://mufi.info/q.php?p=mufi/chars/unichar/61135
+EECF,,F,&ffylig;,1,,,PUA-1,3.0,"LATIN SMALL LIGATURE FFY",accepted,,0,,"2026-05-08 13:39:31",https://mufi.info/q.php?p=mufi/chars/unichar/61135
 EED0,,F,&ftylig;,1,,,PUA-1,3.0,"LATIN SMALL LIGATURE FTY",accepted,,0,,"2025-12-22 20:19:33",https://mufi.info/q.php?p=mufi/chars/unichar/61136
 EED1,,G,&gglig;,1,,,PUA-1,3.0,"LATIN SMALL LIGATURE GG",accepted,,0,,"2025-12-22 20:19:33",https://mufi.info/q.php?p=mufi/chars/unichar/61137
 EED2,,G,&gdlig;,1,,,PUA-1,3.0,"LATIN SMALL LIGATURE GD",accepted,,0,,"2025-12-22 20:19:33",https://mufi.info/q.php?p=mufi/chars/unichar/61138
@@ -1261,7 +1261,7 @@ EEFA,,X,&xenl;,1,,,PUA-3,3.0,"LATIN ENLARGED LETTER SMALL X",accepted,,0,,"20
 EEFB,,Y,&yenl;,1,,,PUA-3,3.0,"LATIN ENLARGED LETTER SMALL Y",accepted,,0,,"2025-12-22 20:19:33",https://mufi.info/q.php?p=mufi/chars/unichar/61179
 EEFC,,Z,&zenl;,1,,,PUA-3,3.0,"LATIN ENLARGED LETTER SMALL Z",accepted,,0,,"2025-12-22 20:19:33",https://mufi.info/q.php?p=mufi/chars/unichar/61180
 EEFD,,I,&inodotenl;,1,,,PUA-3,3.0,"LATIN ENLARGED LETTER SMALL DOTLESS I",accepted,,0,,"2025-12-22 20:19:33",https://mufi.info/q.php?p=mufi/chars/unichar/61181
-EEFE,,J,&jnodotenl;,1,,,PUA-3,3.0,"LATIN ENLARGED LETTER SMALL DOTLESS J",accepted,,0,,"2025-12-22 20:19:33",https://mufi.info/q.php?p=mufi/chars/unichar/61182
+EEFE,,J,&jnodotenl;,1,,,PUA-3,3.0,"LATIN ENLARGED LETTER SMALL DOTLESS J",accepted,,0,,"2026-05-08 13:39:31",https://mufi.info/q.php?p=mufi/chars/unichar/61182
 EEFF,,F,&finsenl;,1,,,PUA-3,3.0,"LATIN ENLARGED LETTER SMALL INSULAR F",accepted,,0,,"2025-12-22 20:19:33",https://mufi.info/q.php?p=mufi/chars/unichar/61183
 EF11,,X,&xscap;,1,,,PUA-2,3.0,"LATIN LETTER SMALL CAPITAL X",accepted,,0,,"2025-12-22 20:19:33",https://mufi.info/q.php?p=mufi/chars/unichar/61201
 EF15,,Þ,&thornscap;,1,,,PUA-2,3.0,"LATIN LETTER SMALL CAPITAL THORN",accepted,,0,,"2025-12-22 20:19:33",https://mufi.info/q.php?p=mufi/chars/unichar/61205
@@ -1358,7 +1358,7 @@ F03A,,_combining,&anscapligsup;,1,,,PUA-7,3.0,"COMBINING LATIN SMALL LIGATURE
 F03D,,_combining,&thornsup;,1,,,PUA-7,3.0,"COMBINING LATIN SMALL LETTER THORN",accepted,,0,"Diacritical marks","2025-12-22 20:19:33",https://mufi.info/q.php?p=mufi/chars/unichar/61501
 F03E,,_combining,&orrotsup;,1,,,PUA-7,3.0,"COMBINING LATIN SMALL LETTER O R ROTUNDA",accepted,,0,"Abbreviation found on AM 132 fol. 41vb/3 (snorri):","2025-12-22 20:19:33",https://mufi.info/q.php?p=mufi/chars/unichar/61502
 F03F,,_combining,&orumsup;,1,,,PUA-7,3.0,"COMBINING LATIN SMALL LETTER O RUM",accepted,,0,,"2025-12-22 20:19:33",https://mufi.info/q.php?p=mufi/chars/unichar/61503
-F040,,_combining,&rumsup;,1,,,PUA-7,3.0,"COMBINING LATIN SMALL LETTER RUM",accepted,,0,,"2025-12-22 20:19:33",https://mufi.info/q.php?p=mufi/chars/unichar/61504
+F040,,_combining,&rumsup;,1,,,PUA-7,3.0,"COMBINING LATIN SMALL LETTER RUM",accepted,,0,,"2026-05-08 13:45:01",https://mufi.info/q.php?p=mufi/chars/unichar/61504
 F053,,C,&cmacr;,1,,,"B 15",4.9,"LATIN SMALL LETTER C WITH MACRON",accepted,,0,,"2025-12-22 20:19:33",https://mufi.info/q.php?p=mufi/chars/unichar/61523
 F054,,R,&rmacr;,1,,,"B 15",4.9,"LATIN SMALL LETTER R WITH MACRON",accepted,,0,"This has also been encoded with &amp;rmacrmed;, but the entity &amp;rmacr; should be used. Cf. &amp;cmacr; at F053 above and &amp;trotmacr; at F093 below.","2025-12-22 20:19:33",https://mufi.info/q.php?p=mufi/chars/unichar/61524
 F055,,B,&basup;,1,,,"B 31",4.9,"LATIN SMALL LETTER B WITH LATIN SMALL LETTER A ABOVE",accepted,,0,,"2025-12-22 20:19:33",https://mufi.info/q.php?p=mufi/chars/unichar/61525
@@ -1370,7 +1370,7 @@ F05C,,B,&busup;,1,,,"B 31",4.9,"LATIN SMALL LETTER B WITH LATIN SMALL LETTER 
 F05D,,B,&bvsup;,1,,,PUA-31,"Characters added after v. 4.0","LATIN SMALL LETTER B WITH LATIN SMALL LETTER V ABOVE",accepted,,0,,"2025-12-22 20:19:33",https://mufi.info/q.php?p=mufi/chars/unichar/61533
 F05E,,B,&bra;,1,,,"B 49",4.9,"LATIN SMALL LETTER B WITH FLATTENED OPEN A ABOVE",accepted,,0,,"2025-12-22 20:19:33",https://mufi.info/q.php?p=mufi/chars/unichar/61534
 F05F,,B,&ber;,1,,,"B 49",4.9,"LATIN SMALL LETTER B WITH ZIGZAG ABOVE",accepted,,0,,"2025-12-22 20:19:33",https://mufi.info/q.php?p=mufi/chars/unichar/61535
-F062,,B,&burlemn;,1,,,"B 49",4.9,"LATIN SMALL LETTER B WITH UR LEMNISKATE FORM ABOVE",accepted,,0,,"2025-12-22 20:19:33",https://mufi.info/q.php?p=mufi/chars/unichar/61538
+F062,,B,&burlemn;,1,,,"B 49",4.9,"LATIN SMALL LETTER B WITH UR LEMNISKATE FORM ABOVE",accepted,,0,,"2026-05-08 13:39:31",https://mufi.info/q.php?p=mufi/chars/unichar/61538
 F063,,B,&bus;,1,,,"B 49",4.9,"LATIN SMALL LETTER B WITH US ABOVE",accepted,,0,,"2025-12-22 20:19:33",https://mufi.info/q.php?p=mufi/chars/unichar/61539
 F064,,H,&hus;,1,,,"B 49",4.9,"LATIN SMALL LETTER H WITH US ABOVE",accepted,,0,,"2025-12-22 20:19:33",https://mufi.info/q.php?p=mufi/chars/unichar/61540
 F065,,H,&hasup;,1,,,PUA-31,"Characters added after v. 4.0","LATIN SMALL LETTER H WITH LATIN SMALL LETTER A ABOVE",accepted,,0,,"2025-12-22 20:19:33",https://mufi.info/q.php?p=mufi/chars/unichar/61541
@@ -1382,7 +1382,7 @@ F06A,,H,&hrsup;,1,,,PUA-31,"Characters added after v. 4.0","LATIN SMALL LETTE
 F06B,,H,&her;,1,,,"B 49",4.9,"LATIN SMALL LETTER H WITH ZIGZAG ABOVE",accepted,,0,,"2025-12-22 20:19:33",https://mufi.info/q.php?p=mufi/chars/unichar/61547
 F06C,,H,&husup;,1,,,"B 31",4.9,"LATIN SMALL LETTER H WITH LATIN SMALL LETTER U ABOVE",accepted,,0,,"2025-12-22 20:19:33",https://mufi.info/q.php?p=mufi/chars/unichar/61548
 F06D,,H,&hvsup;,1,,,PUA-31,"Characters added after v. 4.0","LATIN SMALL LETTER H WITH LATIN SMALL LETTER V ABOVE",accepted,,0,,"2025-12-22 20:19:33",https://mufi.info/q.php?p=mufi/chars/unichar/61549
-F06E,,H,&htsup;,1,,,PUA-31,"Characters added after v. 4.0","LATIN SMALL LETTER H WITH LATIN SMALL LETTER T ABOVE",accepted,,0,,"2025-12-22 20:19:33",https://mufi.info/q.php?p=mufi/chars/unichar/61550
+F06E,,H,&htsup;,1,,,PUA-31,"Characters added after v. 4.0","LATIN SMALL LETTER H WITH LATIN SMALL LETTER T ABOVE",accepted,,0,,"2026-05-08 13:39:32",https://mufi.info/q.php?p=mufi/chars/unichar/61550
 F06F,,H,&hra;,1,,,"B 49",4.9,"LATIN SMALL LETTER H WITH FLATTENED OPEN A ABOVE",accepted,,0,,"2025-12-22 20:19:33",https://mufi.info/q.php?p=mufi/chars/unichar/61551
 F074,,H,&hurlemn;,1,,,"B 49",4.9,"LATIN SMALL LETTER H WITH UR LEMNISKATE FORM ABOVE",accepted,,0,,"2025-12-22 20:19:33",https://mufi.info/q.php?p=mufi/chars/unichar/61556
 F075,,K,&kasup;,1,,,PUA-31,"Characters added after v. 4.0","LATIN SMALL LETTER K WITH LATIN SMALL LETTER A ABOVE",accepted,,0,,"2025-12-22 20:19:33",https://mufi.info/q.php?p=mufi/chars/unichar/61557
@@ -1392,7 +1392,7 @@ F078,,K,&klscapsup;,1,,,"B 31",4.9,"LATIN SMALL LETTER K WITH LATIN LETTER SM
 F079,,K,&kosup;,1,,,PUA-31,"Characters added after v. 4.0","LATIN SMALL LETTER K WITH LATIN SMALL LETTER O ABOVE",accepted,,0,,"2025-12-22 20:19:33",https://mufi.info/q.php?p=mufi/chars/unichar/61561
 F07A,,K,&krsup;,1,,,PUA-31,"Characters added after v. 4.0","LATIN SMALL LETTER K WITH LATIN SMALL LETTER R ABOVE",accepted,,0,,"2025-12-22 20:19:33",https://mufi.info/q.php?p=mufi/chars/unichar/61562
 F07B,,K,&krscapsup;,1,,,PUA-31,"Characters added after v. 4.0","LATIN SMALL LETTER K WITH LATIN LETTER SMALL CAPITAL R ABOVE",accepted,,0,,"2025-12-22 20:19:33",https://mufi.info/q.php?p=mufi/chars/unichar/61563
-F07C,,K,&kusup;,1,,,"B 31",4.9,"LATIN SMALL LETTER K WITH LATIN SMALL LETTER U ABOVE",accepted,,0,,"2025-12-22 20:19:33",https://mufi.info/q.php?p=mufi/chars/unichar/61564
+F07C,,K,&kusup;,1,,,"B 31",4.9,"LATIN SMALL LETTER K WITH LATIN SMALL LETTER U ABOVE",accepted,,0,,"2026-05-08 13:39:32",https://mufi.info/q.php?p=mufi/chars/unichar/61564
 F07D,,K,&kvsup;,1,,,PUA-31,"Characters added after v. 4.0","LATIN SMALL LETTER K WITH LATIN SMALL LETTER V ABOVE",accepted,,0,,"2025-12-22 20:19:33",https://mufi.info/q.php?p=mufi/chars/unichar/61565
 F07E,,K,&kus;,1,,,"B 49",4.9,"LATIN SMALL LETTER K WITH US ABOVE",accepted,,0,,"2025-12-22 20:19:33",https://mufi.info/q.php?p=mufi/chars/unichar/61566
 F07F,,K,&kzsup;,1,,,PUA-31,"Characters added after v. 4.0","LATIN SMALL LETTER K WITH LATIN SMALL LETTER Z ABOVE",accepted,,0,,"2025-12-22 20:19:33",https://mufi.info/q.php?p=mufi/chars/unichar/61567
@@ -1428,9 +1428,9 @@ F0B7,,F,&finsmacr;,1,,,"B 15",4.9,"LATIN SMALL LETTER INSULAR F WITH MACRON",
 F0B8,,F,&fer;,1,,,"B 49",4.9,"LATIN SMALL LETTER F WITH ZIGZAG ABOVE",accepted,,0,,"2025-12-22 20:19:33",https://mufi.info/q.php?p=mufi/chars/unichar/61624
 F0B9,,K,&ker;,1,,,"B 49",4.9,"LATIN SMALL LETTER K WITH ZIGZAG ABOVE",accepted,,0,,"2025-12-22 20:19:33",https://mufi.info/q.php?p=mufi/chars/unichar/61625
 F0BA,,L,&ler;,1,,,"B 49",4.9,"LATIN SMALL LETTER L WITH ZIGZAG ABOVE",accepted,,0,,"2025-12-22 20:19:33",https://mufi.info/q.php?p=mufi/chars/unichar/61626
-F0BB,,L,&lerfin;,1,,,"B 49",4.9,"LATIN SMALL LETTER L WITH WORD-FINAL ZIGZAG ABOVE",accepted,,0,,"2025-12-22 20:19:33",https://mufi.info/q.php?p=mufi/chars/unichar/61627
+F0BB,,L,&lerfin;,1,,,"B 49",4.9,"LATIN SMALL LETTER L WITH WORD-FINAL ZIGZAG ABOVE",accepted,,0,,"2026-05-08 13:45:32",https://mufi.info/q.php?p=mufi/chars/unichar/61627
 F0BC,,S,&slonger;,1,,,"B 49",4.9,"LATIN SMALL LETTER LONG S WITH ZIGZAG ABOVE",accepted,,0,,"2025-12-22 20:19:33",https://mufi.info/q.php?p=mufi/chars/unichar/61628
-F0BD,,H,&hmscapsup;,1,,,,?,"LATIN SMALL LETTER H WITH LATIN CAPITAL LETTER M ABOVE",accepted,,0,,"2025-12-22 20:19:33",https://mufi.info/q.php?p=mufi/chars/unichar/61629
+F0BD,,H,&hmscapsup;,1,,,,?,"LATIN SMALL LETTER H WITH LATIN CAPITAL LETTER M ABOVE",accepted,,0,,"2026-05-08 13:45:50",https://mufi.info/q.php?p=mufi/chars/unichar/61629
 F0BE,,K,&kra;,1,,,"B 49",4.9,"LATIN SMALL LETTER K WITH FLATTENED OPEN A ABOVE",accepted,,0,,"2025-12-22 20:19:33",https://mufi.info/q.php?p=mufi/chars/unichar/61630
 F0BF,,K,&kurlemn;,1,,,"B 49",4.9,"LATIN SMALL LETTER K WITH UR LEMNISKATE FORM ABOVE",accepted,,0,,"2025-12-22 20:19:33",https://mufi.info/q.php?p=mufi/chars/unichar/61631
 F0C2,,E,&eenlacute;,1,,,"B 3",4.9,"LATIN ENLARGED LETTER SMALL E WITH ACUTE",accepted,,0,,"2025-12-22 20:19:33",https://mufi.info/q.php?p=mufi/chars/unichar/61634
@@ -1452,14 +1452,14 @@ F0D9,,D,&ethtrotsup;,1,,,"B 31",4.9,"LATIN SMALL LETTER ETH WITH LATIN LETTER
 F0DA,,H,&htrotsup;,1,,,"B 31",4.9,"LATIN SMALL LETTER H WITH LATIN LETTER INSULAR T ABOVE",accepted,,0,,"2025-12-22 20:19:33",https://mufi.info/q.php?p=mufi/chars/unichar/61658
 F0DC,,D,&drotvlig;,1,,,"B 1",4.9,"LATIN SMALL LIGATURE D ROTUNDA V",accepted,,0,,"2025-12-22 20:19:33",https://mufi.info/q.php?p=mufi/chars/unichar/61660
 F0DD,,G,&gvlig;,1,,,"B 1",4.9,"LATIN SMALL LIGATURE G V",accepted,,0,"There is a similar-looking ligature in Andron Scriptor at EAD3, , but the loop of the ‘g’ in this is not closed.","2025-12-22 20:19:33",https://mufi.info/q.php?p=mufi/chars/unichar/61661
-F0DE,,D,&drotvligmacr;,1,,,"B 15",4.9,"LATIN SMALL LIGATURE D ROTUNDA V WITH MACRON",accepted,,0,,"2025-12-22 20:19:33",https://mufi.info/q.php?p=mufi/chars/unichar/61662
+F0DE,,D,&drotvligmacr;,1,,,"B 15",4.9,"LATIN SMALL LIGATURE D ROTUNDA V WITH MACRON",accepted,,0,,"2026-05-08 13:39:31",https://mufi.info/q.php?p=mufi/chars/unichar/61662
 F0DF,,A,&avligmacr;,1,,,"B 15",4.9,"LATIN SMALL LIGATURE A V WITH MACRON",accepted,,0,,"2025-12-22 20:19:33",https://mufi.info/q.php?p=mufi/chars/unichar/61663
-F0E9,,D,&ethvlig;,1,,,"B 1",4.9,"LATIN SMALL LIGATURE ETH V",accepted,,0,,"2025-12-22 20:19:33",https://mufi.info/q.php?p=mufi/chars/unichar/61673
+F0E9,,D,&ethvlig;,1,,,"B 1",4.9,"LATIN SMALL LIGATURE ETH V",accepted,,0,,"2026-05-08 13:39:31",https://mufi.info/q.php?p=mufi/chars/unichar/61673
 F0EA,,Þ,&thornvlig;,1,,,"B 1",4.9,"LATIN SMALL LIGATURE THORN V",accepted,,0,,"2025-12-22 20:19:33",https://mufi.info/q.php?p=mufi/chars/unichar/61674
 F0EB,,N,&nvlig;,1,,,"B 1",4.9,"LATIN SMALL LIGATURE N V",accepted,,0,,"2025-12-22 20:19:33",https://mufi.info/q.php?p=mufi/chars/unichar/61675
 F0EC,,A,&aenlvlig;,1,,,"B 1",4.9,"LATIN LIGATURE ENLARGED LETTER SMALL A AND LATIN SMALL LETTER V",accepted,,0,,"2025-12-22 20:19:33",https://mufi.info/q.php?p=mufi/chars/unichar/61676
 F0F8,,N,&nvmacrlig;,1,,,"B 15",4.9,"LATIN SMALL LIGATURE N V WITH MACRON",accepted,,0,,"2025-12-22 20:19:33",https://mufi.info/q.php?p=mufi/chars/unichar/61688
-F0F9,,A,&amacrnscaplig;,1,,,"B 15",4.9,"LATIN LIGATURE SMALL LETTER A WITH MACRON AND SMALL CAPITAL N",accepted,,0,,"2025-12-22 20:19:33",https://mufi.info/q.php?p=mufi/chars/unichar/61689
+F0F9,,A,&amacrnscaplig;,1,,,"B 15",4.9,"LATIN LIGATURE SMALL LETTER A WITH MACRON AND SMALL CAPITAL N",accepted,,0,,"2026-05-08 13:46:10",https://mufi.info/q.php?p=mufi/chars/unichar/61689
 F0FA,,A,&aacutevlig;,1,,,"B 16",4.9,"LATIN SMALL LIGATURE AV WITH ACUTE = LATIN SMALL LIGATURE AV + COMBINING ACUTE ACCENT",accepted,,0,"The distinction between the two characters above are not fully taken care of by using the COMBINING ACUTE ACCENT. The first of the two characters has the accent positioned centrally above, while the second has it firmly above the first part of the ligature. This difference is reflected in the character en- tities and the different codepoints.","2025-12-22 20:19:33",https://mufi.info/q.php?p=mufi/chars/unichar/61690
 F0FB,,A,&aenlvmacrlig;,1,,,"B 15",4.9,"LATIN LIGATURE ENLARGED LETTER SMALL A AND LATIN SMALL LETTER V WITH MACRON",accepted,,0,,"2025-12-22 20:19:33",https://mufi.info/q.php?p=mufi/chars/unichar/61691
 F0FC,,A,&avmacrlig;,1,,,"B 15",4.9,"LATIN LIGATURE SMALL LETTER A AND LATIN LETTER V WITH MACRON",accepted,,0,,"2025-12-22 20:19:33",https://mufi.info/q.php?p=mufi/chars/unichar/61692
@@ -1500,7 +1500,7 @@ F1BD,,_symbols,&smallzero;,1,,,PUA-11,3.0,"SMALL BASE LINE ZERO SIGN",accepte
 F1BF,,_numbers,&Xmod;,1,,,PUA-11,3.0,"MODIFIER LETTER CAPITAL X",accepted,,0,"The three raised Roman numerals I, V and X are used by Ordbog over det norrøne prosasprog in rendering manuscript signatures. The rest of these can be encoded with 1D35 MODIFIER CAPITAL LETTER I in Phonetic Extensions (see p. 46 above), the second with 2C7D MODIFIER LETTER CAPITAL V in Latin Extended-C (see p. 72 above), while the last one has been added here.","2025-12-22 20:19:33",https://mufi.info/q.php?p=mufi/chars/unichar/61887
 F1C0,,_combining,&arbar;,1,,,PUA-6,3.0,"COMBINING ABBREVIATION MARK BAR ABOVE WITH DOT",accepted,,0,,"2025-12-22 20:19:33",https://mufi.info/q.php?p=mufi/chars/unichar/61888
 F1C1,,_combining,&rabar;,1,,,PUA-6,3.0,"COMBINING ABBREVIATION MARK SUPERSCRIPT RA OPEN A FORM WITH BAR ABOVE",accepted,,0,,"2025-12-22 20:19:33",https://mufi.info/q.php?p=mufi/chars/unichar/61889
-F1C2,,_combining,&urlemn;,1,,,PUA-6,3.0,"COMBINING ABBREVIATION MARK SUPERSCRIPT UR LEMNISKATE FORM",accepted,,0,"Variant of the 'ur' abbreviation 1DD1 with a sideways 's' form or similar ('lemniskate' is probably misleading) - the Junicode and Palemonas glyphs are the most accurate. Cf. the 2nd and 4th forms in Cappelli's introduction:This should not be confused with&nbsp;F1CC COMBINING CURLY BAR ABOVE, which is not an abbreviation mark.","2025-12-22 20:19:33",https://mufi.info/q.php?p=mufi/chars/unichar/61890
+F1C2,,_combining,&urlemn;,1,,,PUA-6,3.0,"COMBINING ABBREVIATION MARK SUPERSCRIPT UR LEMNISKATE FORM",accepted,,0,"Variant of the 'ur' abbreviation 1DD1 with a sideways 's' form or similar ('lemniskate' is probably misleading) - the Junicode and Palemonas glyphs are the most accurate. Cf. the 2nd and 4th forms in Cappelli's introduction:This should not be confused with&nbsp;F1CC COMBINING CURLY BAR ABOVE, which is not an abbreviation mark.","2026-05-08 13:39:31",https://mufi.info/q.php?p=mufi/chars/unichar/61890
 F1C5,,_combining,&combcurlhigh;,1,,,PUA-6,3.0,"COMBINING CURL HIGH POSITION",accepted,,0,"The COMBINING CURL HIGH POSITION is an intermediate solution for the positioning of a curl above tall letters. It should be deprecated when smart font software allows correct positioning of 1DCE COMBINING OGONEK ABOVE above all letters, irrespective of height or width.","2025-12-22 20:19:33",https://mufi.info/q.php?p=mufi/chars/unichar/61893
 F1C7,,_combining,&erang;,1,,,PUA-6,3.0,"COMBINING ABBREVIATION MARK ZIGZAG ABOVE ANGLE FORM",accepted,,0,,"2025-12-22 20:19:33",https://mufi.info/q.php?p=mufi/chars/unichar/61895
 F1C8,,_combining,&ercurl;,1,,,PUA-6,3.0,"COMBINING ABBREVIATION MARK ZIGZAG ABOVE CURLY FORM",accepted,,0,,"2025-12-22 20:19:33",https://mufi.info/q.php?p=mufi/chars/unichar/61896
@@ -1566,7 +1566,7 @@ F239,,Z,&imhgzedlig;,1,,,PUA-14,"Characters added after v. 4.0","LATIN SMALL 
 F23A,,H,&hrdes;,1,,,PUA-51,3.0,"LATIN SMALL LETTER H WITH RIGHT DESCENDER",accepted,,0,,"2025-12-22 20:19:33",https://mufi.info/q.php?p=mufi/chars/unichar/62010
 F23C,,M,&munc;,1,,,PUA-51,"4.0 additions","LATIN SMALL LETTER M UNCIAL FORM",accepted,,0,"[having the same x height as ordinary ‘m’] (F225 should be retained, but renamed LATIN MEDIUSCULE LETTER M UNCIAL FORM)","2025-12-22 20:19:33",https://mufi.info/q.php?p=mufi/chars/unichar/62012
 F23D,,M,&;,1,,,PUA-51,"4.0 additions","LATIN SMALL LETTER M UNCIAL FORM WITH RIGHT DESCENDER",accepted,,0,"[same x height as ‘m’] (F226 should be retained, but renamed LATIN MEDIUSCULE LETTER M UNCIAL FORM WITH RIGHT DESCENDER)","2025-12-22 20:19:33",https://mufi.info/q.php?p=mufi/chars/unichar/62013
-F23E,,M,&muncsmallacute;,1,,,PUA-16,"4.0 additions","LATIN SMALL LETTER M UNCIAL FORM WITH ACUTE ACCENT",accepted,,0," = munc + combacute [same x height as ‘m’] (Based on F23C) = munc + combacute","2025-12-22 20:19:33",https://mufi.info/q.php?p=mufi/chars/unichar/62014
+F23E,,M,&muncsmallacute;,1,,,PUA-16,"4.0 additions","LATIN SMALL LETTER M UNCIAL FORM WITH ACUTE ACCENT",accepted,,0," = munc + combacute [same x height as ‘m’] (Based on F23C) = munc + combacute","2026-05-08 13:39:32",https://mufi.info/q.php?p=mufi/chars/unichar/62014
 F23F,,_numbers,&romnumCrevovl;,1,,,PUA-15,3.0,"ROMAN NUMERAL REVERSED ONE HUNDRED WITH OVERLINE",accepted,,0,,"2025-12-22 20:19:33",https://mufi.info/q.php?p=mufi/chars/unichar/62015
 F2E0,,_symbols,&romaslibr;,1,,,PUA-12,3.0,"LATIN AS LIBRALIS SIGN",accepted,,0,"Roman monetary unit, cf. Hans Biedermann and Inge Schwarz-Winklhofer, Das Buch der Zeichen und Symbole, Graz 1980.","2025-12-22 20:19:33",https://mufi.info/q.php?p=mufi/chars/unichar/62176
 F2E2,,_symbols,&romscapxbar;,1,,,PUA-12,3.0,"LATIN SMALL CAPITAL LETTER X WITH BAR",accepted,,0,,"2025-12-22 20:19:33",https://mufi.info/q.php?p=mufi/chars/unichar/62178
